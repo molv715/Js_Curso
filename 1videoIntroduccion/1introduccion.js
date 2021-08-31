@@ -1,6 +1,7 @@
 
 
-int h=14;
-str= "ejemplo 1"
-
-kljasdfkljasdfjkljklsadfkjlsdfjklñsfdjkl ALPEDO
+[ADD] adicione archivos
+[FIX]cambie datos
+git clone httpsetc clonas a tu pc el proyecto
+git push pushea tu trabajo
+git pull actualizas el proyecto 

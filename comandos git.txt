@@ -1,0 +1,16 @@
+Tú17:27
+git commit -m "mi primer comit por consola"
+Tú17:30
+[ADD] erroneo comit
+Tú17:34
+[ADD] adicione archivos
+[FIX]cambie datos
+git clone httpsetc clonas a tu pc el proyecto
+Tú17:35
+git push pushea tu trabajo
+git pull actualizas el proyecto 
+para mandar tu trabajos siempre un comit y luego el pusheo
+Tú17:38
+git checkout <nombre-de-la-rama>
+Tú17:47
+git push origin manny
